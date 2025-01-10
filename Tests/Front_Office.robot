@@ -8,7 +8,7 @@ Test Teardown   Common.End web page
 
 
 *** Variables ***
-${BROWSER}=                 firefox
+${BROWSER}=                 chrome
 ${FrontOfc_Page_Link}=      https://automationplayground.com/front-office/
 
 
