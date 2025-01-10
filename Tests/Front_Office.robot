@@ -24,13 +24,7 @@ Shoudld be able to land teames page
     Front_OfficeApp.Open Team Page
 
 Should add all process
-    Log To Console    Startting web automation test cases...
-    Sleep    5s
-    Log To Console    Invoking web browser
     Common.Begin web page
-    Log To Console    Going to open web page for front office
     Front_OfficeApp.Go to landing page
-    Log To Console    Invoking Team page for log
     Front_OfficeApp.Open Team Page
-    Log To Console   Ending test case
     Common.End web page
