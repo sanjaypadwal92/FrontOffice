@@ -14,7 +14,7 @@ ${FrontOfc_Page_Link}=      https://automationplayground.com/front-office/
 
 
 *** Test Cases ***
-
+# Test cases for front office web page automations
 Should be land front to office page
     Front_OfficeApp.Go to landing page
 
